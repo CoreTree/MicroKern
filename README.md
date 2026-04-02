@@ -2,4 +2,4 @@
 A microkernel written in C
 
 ## References
-By following [osdev.org](https://wiki.osdev.org), I was able to develop a 64-bit kernel.
+By following [osdev.org](https://wiki.osdev.org), I want to develop a 64-bit micro-kernel.
